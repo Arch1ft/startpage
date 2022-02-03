@@ -9,7 +9,7 @@ body {
   display: flex;
   font-family: sans-serif;
   color: #E6E6FA;
-  background-image: url(../images/fon3.jpg); 
+  background-image: url(fon3.jpg); 
   margin-right: 9em;
   padding: 1em;
 }
